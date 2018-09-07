@@ -1,2 +1,2 @@
 # react-redux-modals
- React/Redux: Modals and Dialogs
+ React/Redux Modals and Dialogs
